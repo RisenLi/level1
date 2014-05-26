@@ -1,0 +1,27 @@
+C:\Users\Анатолий\Desktop\Игра на выживание\Игра на выживание\bin\Debug\Игра на выживание.exe
+C:\Users\Анатолий\Desktop\Игра на выживание\Игра на выживание\bin\Debug\Игра на выживание.pdb
+C:\Users\Анатолий\Desktop\Игра на выживание\Игра на выживание\obj\x86\Debug\Охота.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\Игра на выживание\Игра на выживание\obj\x86\Debug\Охота.Form1.resources
+C:\Users\Анатолий\Desktop\Игра на выживание\Игра на выживание\obj\x86\Debug\Охота.Form2.resources
+C:\Users\Анатолий\Desktop\Игра на выживание\Игра на выживание\obj\x86\Debug\Охота.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\Игра на выживание\Игра на выживание\obj\x86\Debug\Охота.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\Игра на выживание\Игра на выживание\obj\x86\Debug\Игра на выживание.exe
+C:\Users\Анатолий\Desktop\Игра на выживание\Игра на выживание\obj\x86\Debug\Игра на выживание.pdb
+C:\Users\Анатолий\Desktop\Игра на выживание\Охота\obj\x86\Debug\Игра на выживание.exe
+C:\Users\Анатолий\Desktop\Игра на выживание\Охота\obj\x86\Debug\Игра на выживание.pdb
+C:\Users\Анатолий\Desktop\Игра на выживание\Охота\bin\Debug\Игра на выживание.exe
+C:\Users\Анатолий\Desktop\Игра на выживание\Охота\bin\Debug\Игра на выживание.pdb
+C:\Users\Анатолий\Desktop\Игра на выживание\Охота\obj\x86\Debug\Охота.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\Игра на выживание\Охота\obj\x86\Debug\Охота.Form1.resources
+C:\Users\Анатолий\Desktop\Игра на выживание\Охота\obj\x86\Debug\Охота.Form2.resources
+C:\Users\Анатолий\Desktop\Игра на выживание\Охота\obj\x86\Debug\Охота.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\Игра на выживание\Охота\obj\x86\Debug\Охота.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\Охота\Охота\obj\x86\Debug\Охота.Form1.resources
+C:\Users\Анатолий\Desktop\Охота\Охота\obj\x86\Debug\Охота.Form2.resources
+C:\Users\Анатолий\Desktop\Охота\Охота\obj\x86\Debug\Охота.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\Охота\Охота\obj\x86\Debug\Охота.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\Охота\Охота\obj\x86\Debug\Охота.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\Охота\Охота\bin\Debug\Охота.exe
+C:\Users\Анатолий\Desktop\Охота\Охота\bin\Debug\Охота.pdb
+C:\Users\Анатолий\Desktop\Охота\Охота\obj\x86\Debug\Охота.exe
+C:\Users\Анатолий\Desktop\Охота\Охота\obj\x86\Debug\Охота.pdb
